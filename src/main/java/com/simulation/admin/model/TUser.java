@@ -10,4 +10,5 @@ public class TUser {
 	@Id
 	private Integer id;
 	private String name;
+	private String password;
 }
