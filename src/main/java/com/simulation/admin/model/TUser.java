@@ -9,4 +9,5 @@ import javax.persistence.Table;
 public class TUser {
 	@Id
 	private Integer id;
+	private String name;
 }
