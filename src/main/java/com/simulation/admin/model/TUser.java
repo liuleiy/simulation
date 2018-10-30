@@ -11,4 +11,5 @@ public class TUser {
 	private Integer id;
 	private String name;
 	private String password;
+	private String email;
 }
